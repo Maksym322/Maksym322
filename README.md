@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- [cite_start]🤖 AI Software Engineer passionate about machine learning, systems, and innovative AI solutions [cite: 5]
-- [cite_start]🎓 Pursuing a Bachelor's Degree in Computer Engineering at [Uzhhorod National University](https://www.uzhnu.edu.ua/) (Graduating 2026) [cite: 39, 40]
-- [cite_start]📧 Reach me at [polusmyak.maksim@gmail.com](mailto:polusmyak.maksim@gmail.com) [cite: 2]
+- 🤖 AI Software Engineer passionate about machine learning, systems, and innovative AI solutions
+- 🎓 Pursuing a Bachelor's Degree in Computer Engineering at [Uzhhorod National University](https://www.uzhnu.edu.ua/) (Graduating 2026)
+- 📧 Reach me at [polusmyak.maksim@gmail.com](mailto:polusmyak.maksim@gmail.com)
 
 ---
 
