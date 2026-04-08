@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Maksym! 👋
 
 - 🤖 AI Software Engineer passionate about machine learning, systems, and innovative AI solutions
 - 🎓 Pursuing a Bachelor's Degree in Computer Engineering at [Uzhhorod National University](https://www.uzhnu.edu.ua/) (Graduating 2026)
